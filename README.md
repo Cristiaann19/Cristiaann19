@@ -1,37 +1,83 @@
 <h2 align="left">Hi!! My name is Cristian....</h2>
 
-###
+---
 
-###
+### 👨🏽‍💻 About Me
+  👨🏽‍💻 Systems Engineer in training  
+  💡 Building creative software  
+  🌐 Web development  
+
+---
 <h2 align="left">Coding experience with</h2>
 <img align="right" height="150" src="https://media.tenor.com/GSQbjDnvnREAAAAM/ghost-cod-call-of-duty.gif"  />
-<br>
-<br>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="50" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://camo.githubusercontent.com/90700a62313a7ab044939bb96a71304f22a7e179cc503cd565b2e793e4f492c0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" height="50" alt="mongo logo"  />
-  <img width="12"/>
- <img src="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" height="50" alt="mongo logo"  />
-  <img width="12"/> 
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongoDB logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sqlserver logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" height="50" alt="MariaDB logo" style="width: 50px; height: 50px; object-fit: contain;" />
 </div>
-<br>
-<br>
+
+<h2 align="left">🛠️ Frameworks, APIs & Tools</h2>
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+         alt="spring logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+         alt="react logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         alt="vue logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+         alt="nodejs logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+         alt="bootstrap logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+         alt="tailwind logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+         alt="postman logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+         alt="git logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+</div>
 
 <h2 align="left">Social Media....</h2>
 
 ###
 
 <div align="left">
-  <a href="https://x.com/icrixxc" rel="nofollow" target="_blank">
+  <a href="https://x.com/Cristiamxyz" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
   </a>
   <a href="https://instagram.com/icrixxc" rel="nofollow" target="_blank">
