@@ -8,6 +8,15 @@
   🌐 Web development  
 
 ---
+
+<h2 align="left">🧠 Most Used Programming Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristiaann19&locale=en&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=false&cache_seconds=1800&v=2" height="150" alt="languages graph"/>
+</p>
+
+---
+
 <h2 align="left">Coding experience with</h2>
 <img align="right" height="150" src="https://media.tenor.com/GSQbjDnvnREAAAAM/ghost-cod-call-of-duty.gif"  />
 
