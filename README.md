@@ -1,110 +1,118 @@
-<h2 align="left">Hi!! My name is Cristian....</h2>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hola,+soy+Cristian+Huaman;Backend+Java+Specialist;Full+Stack+Developer" alt="Typing SVG" />
+
+<h3>Ingeniero de Sistemas en formación</h3>
+
+</div>
 
 ---
 
-### 👨🏽‍💻 About Me
-  👨🏽‍💻 Systems Engineer in training  
-  💡 Building creative software  
-  🌐 Web development  
+## 👨🏽‍💻 Sobre mí
+
+- 👨🏽‍💻 Systems Engineer in training  
+- 💡 Building creative software  
+- 🌐 Web development  
+- ☕ Especializado en desarrollo backend con Java  
+- 🚀 Interesado en arquitectura de software y desarrollo full stack  
 
 ---
 
-<h2 align="left">🧠 Most Used Programming Languages</h2>
+# 💻 Tech Stack
+
+### **Lenguajes de Programación**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+---
+
+### **Frameworks & Tecnologías Backend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+
+### **Frontend & UI Frameworks**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+### **Bases de Datos & Almacenamiento**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+### **Herramientas & DevOps**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
+</p>
+
+---
+
+### **Entorno de Desarrollo**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristiaann19&show_icons=true&count_private=true&theme=dark&hide_border=false" height="150" alt="GitHub Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristiaann19&locale=en&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=false&cache_seconds=1800&v=2" height="150" alt="languages graph"/>
 </p>
 
 ---
 
-<h2 align="left">Coding experience with</h2>
-<img align="right" height="150" src="https://media.tenor.com/GSQbjDnvnREAAAAM/ghost-cod-call-of-duty.gif"  />
+# 🌐 Social Media
 
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongoDB logo" style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sqlserver logo" style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" height="50" alt="MariaDB logo" style="width: 50px; height: 50px; object-fit: contain;" />
-</div>
-
-<h2 align="left">🛠️ Frameworks, APIs & Tools</h2>
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-         alt="spring logo"
-         style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-         alt="react logo"
-         style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-         alt="vue logo"
-         style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-         alt="nodejs logo"
-         style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-         alt="bootstrap logo"
-         style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-         alt="tailwind logo"
-         style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
-         alt="postman logo"
-         style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-         alt="git logo"
-         style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
-</div>
-
-<h2 align="left">Social Media....</h2>
-
-###
-
-<div align="left">
-  <a href="https://x.com/Cristiamxyz" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
+<p align="left">
+  <a href="https://x.com/Cristiamxyz" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://instagram.com/icrixxc" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/cristianmmq" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/cristian-jesus-huaman-cruz-0b10a22b0/" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  
-</div>
 
-###
-<h2 align="left">Listening</h2>
+  <a href="https://instagram.com/cristiaam__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-###
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=4r0qvsvsiiimtbl902vv6r4lj&unique=true" alt="Spotify Recently Played" />
-</div>
+  <a href="https://www.twitch.tv/cristianmmq" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/cristian-jesus-huaman-cruz-0b10a22b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
