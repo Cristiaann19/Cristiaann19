@@ -87,16 +87,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristiaann19&show_icons=true&count_private=true&theme=dark&hide_border=false" height="150" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristiaann19&locale=en&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=false&cache_seconds=1800&v=2" height="150" alt="languages graph"/>
-</p>
-
----
-
 # 🌐 Social Media
 
 <p align="left">
