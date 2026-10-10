@@ -107,3 +107,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+## 📊 Actividad en GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cristiaann19&show_icons=true&count_private=true&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cristiaann19&layout=compact&langs_count=6&theme=dark&hide_border=false&cache_seconds=86400" alt="Top Languages"/>
+</p>
+
+---
